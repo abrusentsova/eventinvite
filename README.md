@@ -57,9 +57,9 @@ padding: 3px;
   <h1 id="position"><center>You're invited!</center></h1>
   <p>The details:</p>
   <ul>
-    <li>We are gathering in Los Angeles</li>
-    <li>Please bring a small duckling</li>
-    <li>Money as a gift appreciated. (if you don't have/want to give money, two ducklings should be brought</li>
+    <li>We are gathering at my place</li>
+    <li>The time is 4 p.m</li>
+    <li>Gift appreciated</li>
   </ul>
 
   </div>
@@ -67,7 +67,7 @@ padding: 3px;
 <div class="reasons">
 <img src="https://66.media.tumblr.com/a1b8b005d0669ffdc2f0b5e3b08c6fc7/tumblr_ovduvawVkl1wn04cpo1_1280.jpg"  height="300px" class="image">
   <p><em>The reasons you should come:</em></p> </ br>
-You should come because there will be a cool party. The music will be playing and the people will be dancing. Cute ducklings walking around. The food should be delicius too. When we are not hungry anymore, we will walk to the ocean, swim, and have fun. In the evening, we will gather around the fire and talk about our secrets (some emotional girl will start crying I hope it won't be me). Of course, we will take photos to keep the memory of the day. 
+You should come because there will be a cool party. The music will be playing and the people will be dancing. Cute ducklings walking around. The food should be delicius too. When we are not hungry anymore, we will walk to the ocean, swim, and have fun. In the evening, we will gather around the fire sharing interesting stories and talk about our secrets. Of course, we will also take photos to keep the memory of the day. 
 
   </div>
 
