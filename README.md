@@ -59,7 +59,7 @@ padding: 3px;
   <ul>
     <li>We are gathering at my place</li>
     <li>The time is 4 p.m</li>
-    <li>Gift appreciated</li>
+    <li>Gifts appreciated</li>
   </ul>
 
   </div>
